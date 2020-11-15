@@ -1,0 +1,4 @@
+Read	minutes	10	5	20
+Code	Minutes	10	10	60
+Stretch	Minutes	5	1	10
+Code	minutes	5	10	25

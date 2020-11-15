@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HabitPlanner
+comment1.params=
+comment1.target=HabitPlanner()
+comment2.params=
+comment2.target=void\ ReadFile()
+comment3.params=
+comment3.target=void\ writeFile()
+comment4.params=name\ unit\ start\ increase\ goal
+comment4.target=void\ addHabit(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ textOutput()
+comment6.params=habitName
+comment6.target=void\ removeHabit(java.lang.String)
+numComments=7

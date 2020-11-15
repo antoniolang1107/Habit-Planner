@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Habit
+comment0.text=\ Author\:\ Tony\ Lang\n\ Date\:\ 11/15/20\n\ Habit\ class\n
+comment1.params=habit\ unit\ start\ increase\ goal
+comment1.target=Habit(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getHabit()
+comment3.params=
+comment3.target=java.lang.String\ getUnit()
+comment4.params=
+comment4.target=int\ getStart()
+comment5.params=
+comment5.target=int\ getIncrease()
+comment6.params=
+comment6.target=int\ getGoal()
+comment7.params=
+comment7.target=int\ getCurrent()
+comment8.params=
+comment8.target=java.lang.String\ output()
+numComments=9
